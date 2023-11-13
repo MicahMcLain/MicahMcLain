@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicahMcLain
-- 👀 I’m interested in gaming, coding, and all kinds of nerdy things
-- 🌱 I’m currently learning full stack development and cyber security on the side
+- 👀 I’m interested in gaming, coding, DND, Magic the Gathering, and all kinds of nerdy things
+- 🌱 Junior Full-stack developer
 - 💞️ I’m looking to collaborate on anything. I love gaining experience
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/micahmclaindeveloper/
 
