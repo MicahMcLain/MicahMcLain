@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @MicahMcLain
-- 👀 I’m interested in gaming, coding, DND, Magic the Gathering, and all kinds of nerdy things
-- 🌱 Junior Full-stack developer
+# Hi, I'm Micah
+
+## Junior Full-stack Dev
+
+### Currently working on GM-Toolkit for TTRPGs
+
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,vue,postgres,tailwind,ts,spring,idea,vscode&theme=dark&perline=5)](https://skillicons.dev)
 
 <!---
